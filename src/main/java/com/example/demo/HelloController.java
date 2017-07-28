@@ -65,7 +65,7 @@ public class HelloController {
     		conn.setDoOutput(true);
     		conn.setRequestMethod("POST");
     		conn.setRequestProperty("Content-Type", "application/json");
-    		conn.setRequestProperty("Ocp-Apim-Subscription-Key", "612dfe13094244b08d2c33a62ff8632d");
+    		
 
     		String input = "{\r\n" + 
             		"	\"language\" : \"en\",\r\n" + 
