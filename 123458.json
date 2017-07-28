@@ -1,0 +1,29 @@
+{
+ "name" : "James Bond",
+ "accountType" : "RRSP",
+ "account" : "123458",
+ "balance" : "10",
+ "dateOfOpen" : "10/1/2015",
+ "transaction" : [
+      {
+      "date" : "10/1/2016",
+      "action" : "deposit",
+      "amount" : "100"
+      },
+      {
+      "date" : "10/3/2016",
+      "action" : "deposit",
+      "amount" : "10"
+      },
+      {
+      "date" : "10/5/2016",
+      "action" : "widthraw",
+      "amount" : "10"
+      },
+      {
+      "date" : "10/10/2016",
+      "action" : "deposit",
+      "amount" : "10"
+      }
+    ]
+}
